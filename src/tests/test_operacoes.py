@@ -1,4 +1,4 @@
-from meu_pacote import soma, potencia
+from operacoes import soma, potencia
 
 
 def test_soma():
